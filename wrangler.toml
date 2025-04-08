@@ -1,0 +1,7 @@
+name = "newsnow-5c1"
+compatibility_date = "2024-10-16"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "newsnow-db"
+database_id = "77677883-f068-4815-8fe5-67e644e9d42f"
